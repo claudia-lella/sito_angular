@@ -1,0 +1,46 @@
+/* container */
+.container {
+    width: 700px;
+    color: white;
+    position: relative;
+    margin: 0 25px;
+    padding: 20px;
+}
+
+/* images */
+img {
+    max-width: 100%;
+
+}
+
+/* titles */
+h1, h2, h3, p {
+    margin: 20px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 50px;
+    text-align: left;
+}
+
+h2 {
+    font-size: 25px;
+    line-height: 40px;
+    text-align: left;
+}
+
+h3 {
+    font-size: 20x;
+    line-height: 30px;
+    color: rgb(192, 192, 192);
+    text-align: justify;
+}
+
+/* paragraphs */
+p {
+    font-size: 16px;
+    line-height: 30px;
+    text-align: justify;
+}

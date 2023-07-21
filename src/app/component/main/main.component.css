@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    width: 1100px;
+    height: auto;
+    background-color: rgba(46, 46, 46, 1);
+    position: relative;
+    margin: 0 auto;
+}

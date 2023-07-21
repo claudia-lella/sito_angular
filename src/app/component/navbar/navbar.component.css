@@ -1,0 +1,44 @@
+/* ul */
+.menu-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px 0 10px 0;
+    width: 100%;
+    float: none;
+    text-align: center;
+    width: 800px;
+    line-height: 30px;
+    margin: 0 auto 0 auto;
+    list-style: none;
+}
+
+/* li */
+.menu-top > li{
+    margin: 0 20px 0 20px;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 100%;
+    display: inline;
+    padding: 0 5% 0 5%;
+}
+
+/* a */
+a{
+    text-decoration: none;
+    color: #ffffff;
+
+    /* glow effect */
+    text-shadow:
+      0 0 7px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 92px #0fa,
+      0 0 151px #0fa;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+

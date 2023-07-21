@@ -1,0 +1,56 @@
+/* container */
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 1100px;
+    background-color:  rgb(46, 46, 46);
+    margin: 0 auto;
+    border-top: solid 1px rgb(161, 161, 161);
+    height: 230px;
+    align-content: center;
+
+}
+
+/* social and contacts */
+.social, .contacts {
+    align-self: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foot {
+    margin: 20px 0;
+    text-align: justify;
+    font-style: italic;
+}
+
+a {
+    color: white;
+    padding: 0 20px 0 0;
+}
+
+/* contacts */
+.contacts {
+    width: 750px;
+    padding: 30px 50px 30px 30px;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+/* social */
+.social {
+    text-align: center;
+    width: 350px;
+}
+
+.text {
+    margin: 0 20px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Tektur', cursive;
+}
+
+img {
+    height: 25px;
+    width: auto;
+    margin: 20px;
+}
