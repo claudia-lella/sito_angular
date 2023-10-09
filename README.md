@@ -1,5 +1,10 @@
+## Server di sviluppo
 
-# SitoAngular
+Esegui `ng serve` per avviare l'applicazione su un server di sviluppo. Passare a `http://localhost:4200/`. L'applicazione si ricaricherà automaticamente se modifichi uno qualsiasi dei file sorgente.
+
+## Database Json
+
+Esegui `npm run server` per avviare il file `.json`, inserito nella repository, che si comporterà come database locale. L'applicazione si ricaricherà automaticamente se modifichi uno qualsiasi dei file sorgente.
 
 ## TRACCIA ESERCIZIO
 ### Esercitazione Componenti Annidati
